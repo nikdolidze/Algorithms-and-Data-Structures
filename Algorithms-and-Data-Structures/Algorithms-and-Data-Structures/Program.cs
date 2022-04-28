@@ -5,6 +5,10 @@ namespace Algorithms_and_Data_Structures
     {
         static void Main(string[] args)
         {
+            while (true)
+            {
+                NearestValue.NearestOf20();
+            }
             Swap.SwapExample();
         }
     }
